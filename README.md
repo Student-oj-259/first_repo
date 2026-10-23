@@ -1,5 +1,3 @@
-# test_repo
-
 # first_repo
 
 A minimal Python repository demonstrating how to define and call a function.
